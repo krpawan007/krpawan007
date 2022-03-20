@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krpawan007
-- 👀 I’m interested in learning Python and Django and Postgres
+- 👀 I’m interested in learning Python and Django and Postgres, Azure
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and Postgres
 - 📫 How to reach me pawanky88@gmail.com
